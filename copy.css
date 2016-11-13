@@ -1,0 +1,38 @@
+.item.center
+{
+    position: relative;
+    top: 50%;
+
+    margin-top:-50px;
+    width: 50%;
+    left: 50%;
+}
+.red.item.center section
+{
+    height: 100px;
+    margin-left:-50%;
+    overflow: hidden;
+    margin-right: 50%;
+    background-color: lightcoral;
+}
+
+
+
+.item.red.center
+{
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    margin-left: -25%;
+    position: relative;
+
+    height: 30%;
+}
+.item.red.center section
+{
+    overflow: hidden;
+    position: relative;
+    top: -50%;
+    background-color: lightcoral;
+    height: 100%;
+}
